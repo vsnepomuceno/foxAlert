@@ -1,1 +1,6 @@
 /target/
+/.settings/
+/blinkTrade.cer
+/keystore.jks
+/keytool_command.txt
+/logFoxAlert.out
